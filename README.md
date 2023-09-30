@@ -1,6 +1,6 @@
 # ResistanceDAO
 
-📋 2023 GLITCH HACKATHON semi finalist
+📋 2023 GLITCH HACKATHON / semi finalist
 
 ## project_detail
 https://app.glitch-hack.com/project_detail/57
